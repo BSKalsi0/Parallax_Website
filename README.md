@@ -4,3 +4,9 @@
 
 # 📖 Overview
 This project is a Parallax Scrolling Website built using HTML, CSS, and JavaScript. The website uses a smooth scrolling effect, where background images move at different speeds to create a stunning parallax effect, providing a visually immersive experience.
+
+# 🚀 Features
+- Parallax Scrolling: Dynamic background movement based on the scroll position.
+- Smooth scrolling and transitions for a fluid user experience.
+- Responsive design, ensuring compatibility across different devices and screen sizes.
+- Clean and modern UI with layered effects.
