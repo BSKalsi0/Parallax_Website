@@ -10,3 +10,8 @@ This project is a Parallax Scrolling Website built using HTML, CSS, and JavaScri
 - Smooth scrolling and transitions for a fluid user experience.
 - Responsive design, ensuring compatibility across different devices and screen sizes.
 - Clean and modern UI with layered effects.
+
+# 💻 Technologies Used
+- HTML5: For structuring the content.
+- CSS3: For styling, layout, and implementing the parallax effect.
+- JavaScript (ES6): For enhancing interactivity, smooth scrolling, and additional dynamic effects.
