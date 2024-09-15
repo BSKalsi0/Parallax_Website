@@ -29,6 +29,7 @@ This project is a Parallax Scrolling Website built using HTML, CSS, and JavaScri
 # 🖼 Screenshots
 - Home Page with parallax background.
 - Scroll animations and effects.
-- Section transitions.
+- Section transitions
 
 # 📄 License
+The project is available as open source under the terms of the [MIT License]().
