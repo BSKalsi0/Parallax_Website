@@ -15,3 +15,8 @@ This project is a Parallax Scrolling Website built using HTML, CSS, and JavaScri
 - HTML5: For structuring the content.
 - CSS3: For styling, layout, and implementing the parallax effect.
 - JavaScript (ES6): For enhancing interactivity, smooth scrolling, and additional dynamic effects.
+
+# 🛠 How It Works
+- Parallax Effect: As the user scrolls, background images move at different speeds relative to the foreground, creating a depth illusion.
+- Responsive Design: CSS media queries ensure the parallax effect adapts smoothly across mobile, tablet, and desktop devices.
+- JavaScript Enhancements: Smooth scrolling and additional effects are powered by JavaScript for a more engaging experience.
