@@ -24,7 +24,7 @@ This project is a Parallax Scrolling Website built using HTML, CSS, and JavaScri
 # 🛠 Future Enhancements
 - Add more interactive elements such as animations or hover effects.
 - Optimize performance for even smoother scrolling on low-power devices.
-- Implement additional sections with advanced parallax features (e.g., layered animations).
+- Implement additional sections with advanced parallax features.
 
 # 🖼 Screenshots
 - Home Page with parallax background.
