@@ -33,3 +33,5 @@ This project is a Parallax Scrolling Website built using HTML, CSS, and JavaScri
 
 # 📄 License
 The project is available as open source under the terms of the [MIT License](https://github.com/BSKalsi0/Parallax_Website/blob/main/LICENSE).
+
+# Contact 📬
